@@ -5,3 +5,5 @@ Chocolate
 Mantequilla
 Vainilla
 Canela
+Azúcar
+Limón
